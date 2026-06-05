@@ -50,8 +50,3 @@ Add the waveform screenshot below:
 - Parameterized FIFO Depth and Width
 - UVM-based Verification Environment
 
-## Author
-**Chandan D**
-
-Final Year Student  
-VLSI Design and Verification
